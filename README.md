@@ -1,6 +1,6 @@
 This program was written for the linux-2.6.23.1 kernel, which should include its own makefile.
 
-First thing's first, to make my omdifications to the kernel, these files must go in their appropriate place:
+First thing's first, to make my modifications to the kernel, these files must go in their appropriate place:
 
 
 
